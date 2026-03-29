@@ -1,6 +1,6 @@
 # 💫 About Me:
-## Hi there,
-I'm Roger 👋<br><br>Junior Web Developer passionate about building things for the web.<br>I recently completed my studies in **Web Application Development (DAW)**<br>and I'm always looking for new challenges to keep growing.<br><br>When I'm not coding, you'll find me following Formula 1,<br>watching football, or spending time with family and friends.<br><br>> Open to junior opportunities · Always learning · Team player
+## Hi there,I'm Roger 👋
+<br><br>Junior Web Developer passionate about building things for the web.<br>I recently completed my studies in **Web Application Development (DAW)**<br>and I'm always looking for new challenges to keep growing.<br><br>When I'm not coding, you'll find me following Formula 1,<br>watching football, or spending time with family and friends.<br><br> Open to junior opportunities · Always learning · Team player
 
 
 ## 🌐 Socials:
